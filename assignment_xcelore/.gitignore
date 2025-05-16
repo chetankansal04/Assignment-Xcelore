@@ -16,6 +16,7 @@ Thumbs.db
 
 # Spring Boot
 src/main/resources/application.properties
+target\classes\application.properties
 
 # Logs
 logs/

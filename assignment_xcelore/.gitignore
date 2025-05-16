@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.log
+*.class
+*.jar
+*.war
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+src/main/resources/application.properties
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+*.swp

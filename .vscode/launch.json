@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-AssignmentXceloreApplication<assignment_xcelore>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.assignment.xcelore.assignment_xcelore.AssignmentXceloreApplication",
+      "projectName": "assignment_xcelore",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
